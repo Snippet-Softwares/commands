@@ -1,0 +1,36 @@
+	New Project
+1. git init
+2. git add .
+3. git commit -m "Describe change"
+4. git remote add origin https://github.com/Snippet-Softwares/project.git
+5. git push -u origin main
+
+	Existing Project - Main
+1. git add .
+2. git commit -m "Describe change"
+3. git push -u origin main
+
+	Create Branch
+1. git checkout -b muema
+2. git add .
+3. git remote add origin https://github.com/Snippet-Softwares/project.git
+4. git commit -m "Describe change"
+5. git push -u muema
+
+	Project links
+1. git remote add origin https://github.com/Snippet-Softwares/clifford.git
+2. git remote add origin https://github.com/Snippet-Softwares/jewel.git
+3. git remote add origin https://github.com/Snippet-Softwares/maisha.git
+4. git remote add origin https://github.com/Snippet-Softwares/express.git
+5. git remote add origin https://github.com/Snippet-Softwares/corano.git
+
+	Check difference
+1. git diff
+
+	Bash Commands
+1. bash - go to ubuntu from cmd
+2. pdw - current working directory
+3. ls /mnt/ - show drives on pc
+4. cd /mnt/c - change to directory you want
+5. clear - clear terminal data
+6. ls -al - list dir in ubuntu for windows
