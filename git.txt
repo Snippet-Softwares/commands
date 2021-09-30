@@ -17,13 +17,6 @@
 4. git commit -m "Describe change"
 5. git push -u muema
 
-	Project links
-1. git remote add origin https://github.com/Snippet-Softwares/clifford.git
-2. git remote add origin https://github.com/Snippet-Softwares/jewel.git
-3. git remote add origin https://github.com/Snippet-Softwares/maisha.git
-4. git remote add origin https://github.com/Snippet-Softwares/express.git
-5. git remote add origin https://github.com/Snippet-Softwares/corano.git
-
 	Check difference
 1. git diff
 
