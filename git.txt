@@ -27,3 +27,10 @@
 4. cd /mnt/c - change to directory you want
 5. clear - clear terminal data
 6. ls -al - list dir in ubuntu for windows
+
+	Launch Checklist
+1. Meta tags for robots
+2. Contact email
+3. Google sitemap
+4. Submission search
+5. Test live URL
